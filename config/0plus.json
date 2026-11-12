@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "edition": "0plus",
+  "enabled": false,
+  "bannerId": "R-M-20405160-1",
+  "placements": {
+    "bottom_banner": true
+  }
+}
